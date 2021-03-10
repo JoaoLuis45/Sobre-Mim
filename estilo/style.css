@@ -1,0 +1,139 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    
+    }
+    
+    header{
+        background-color: white;
+        width: 300px;
+        padding: 10px;
+        margin: auto;
+        box-shadow: 3px 3px 5px black;
+        margin-bottom: 30px;
+        text-align: center;
+    
+    }
+    
+    main{
+        width: 750px;
+        padding: 20px;
+        background-color: white;
+        box-shadow: 3px 3px 5px black;
+        margin: auto;
+    
+    }
+    body{
+    
+        background-color: rgb(165, 161, 161);
+    }
+    
+    .contatos{
+        padding: 30px;
+        width: 750px;
+        background-color: white;
+        box-shadow: 3px 3px 5px black;
+        margin: auto;
+    }
+    
+    .mim{
+        display: flex;
+        flex-direction: row;
+        margin: auto;
+    }
+    .ma{
+        background-color: white;
+        padding: 30px;
+        box-shadow: 3px 3px 5px black;
+        margin: auto;
+        width: 1700px;
+        margin-top: 30px;
+        text-align: center;
+    }
+
+    img#mf{
+        float: left;
+        margin-right: 20px;
+
+    }
+    div.botao{
+        width: 220px;
+        background-color: rgb(172, 22, 172);
+        text-align: center;
+        box-shadow: 3px 3px 5px black;
+        margin: auto;
+        
+    }
+    a.bt{
+        color: white;
+    }
+    img#melhores{
+        float: right;
+    }
+    .cidade1{
+        padding: 2px;
+        background-color: rgb(15, 165, 165);
+        color: white;
+        
+    }
+    .cidade{
+        border-bottom: 10px;
+    }
+
+    div.container{
+        display: flex;
+        flex-direction: row;
+        padding: 10px;
+        background-color: white;
+        
+
+    }
+
+    div.botao2{
+        width: 220px;
+        background-color: rgb(172, 22, 172);
+        text-align: center;
+        box-shadow: 3px 3px 5px black;
+        float: right;
+        padding: 20px;
+        
+    }
+    a.insta2{
+        color: black;
+
+    }
+    div.insta{
+        background-color: pink;
+        padding: 10px;
+        box-shadow: 3px 3px 5px black;
+        width: 100px;
+        text-align: center;
+        margin: auto;
+    }
+
+    #familia{
+        float: right;
+
+    }
+
+    div.fam{
+        padding: 30px;
+        margin-bottom: 80px;
+        width: 650px;
+    }
+
+    img.f1{
+        float: left;
+    }
+    div.insta3{
+        background-color: pink;
+        padding: 10px;
+        box-shadow: 3px 3px 5px black;
+        width: 100px;
+        text-align: center;
+        margin: auto;
+        margin-top: 30px;
+    }
+    h1.titulo{
+        font-size: 30px;
+    }
