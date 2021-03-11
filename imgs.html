@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="estilo/style.css">
+    <title>Imagens Adaptadas</title>
+</head>
+<body>
+    <h1>Imagens adaptadas</h1>
+    <picture>
+        <source media="(min-width: 1050px)" srcset="fotos/paisagem-g.jpg" type="image/jpg">
+        <source media="(min-width: 750px)" srcset="fotos/paisagem-m.jpg" type="image/jpg">
+        <img src="fotos/paisagem-p.jpg" alt="foto da paisagem">
+        <br>
+        <a href="index.html"><img src="fotos/voltar2.png" alt="voltar"></a>
+    </picture>
+</body>
+</html>
